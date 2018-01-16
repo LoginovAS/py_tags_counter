@@ -3,7 +3,14 @@
  - Python 3.5.3 or higher;
  - Redis 3.2.8 or higher;
  - Py-redis 2.10.3 or higher;
+ - Flask 0.12.2 or higher;
  - Python RQ 0.10.0 or higher;
+
+ The following libs install using pip:
+ lxml
+ requests
+ flask
+ rq
 
 Clone the repository to some local directory (/path/to/application/).
 Execute the next step from repo directory (/path/to/application/).
